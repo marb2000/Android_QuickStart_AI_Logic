@@ -31,4 +31,3 @@ There are 2 main files that demonstrate the use of Firebase AI Logic:
 
 The full list of available samples can be found in the
 [FirebaseAISamples.kt file](app/src/main/java/com/google/firebase/quickstart/ai/FirebaseAISamples.kt). 
-# Android_QuickStart_AI_Logic
