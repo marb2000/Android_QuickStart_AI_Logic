@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local configuration
+local.properties
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# APKs
+*.apk
+*.aab
+
+# Mac
+.DS_Store
+
+# Captures
+/captures
+
+# External native build
+.externalNativeBuild/
+.cxx/
+
+app/google-services.json
